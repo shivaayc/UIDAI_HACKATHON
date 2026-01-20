@@ -1,0 +1,50 @@
+# Git ignore file
+outputs/
+.venv/
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Outputs and generated files
+outputs/
+*.html
+*.csv
+*.xlsx
+*.pdf
+
+# Environment variables or secrets
+.env
+.env.*
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Dashboard artifacts
+fraud_radar_dashboard.html

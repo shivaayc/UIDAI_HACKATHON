@@ -1,0 +1,15 @@
+data_dir: "C:/Users/SHIVAAY/Desktop/Uidai"
+outputs_dir: "outputs"
+
+files:
+  files:
+  enrolment_glob: "C:/Users/SHIVAAY/Desktop/Uidai/api_data_aadhar_enrolment/api_data_aadhar_enrolment/api_data_aadhar_enrolment_*.csv"
+  demographic_glob: "C:/Users/SHIVAAY/Desktop/Uidai/api_data_aadhar_demographic/api_data_aadhar_demographic_*.csv"
+  biometric_glob: "C:/Users/SHIVAAY/Desktop/Uidai/api_data_aadhar_biometric/api_data_aadhar_biometric_*.csv"
+geo:
+  district_column: "district_code"  
+time:
+  timestamp_column: "event_time"     
+demographics:
+  age_column: "age"
+  gender_column: "gender"

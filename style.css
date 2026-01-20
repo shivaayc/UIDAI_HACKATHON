@@ -1,0 +1,125 @@
+/* Typography & base */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap');
+
+:root {
+  --bg: #f4f6f9;
+  --text: #2c3e50;
+  --card: #ffffff;
+  --accent: #3498db;
+  --accent-dark: #2980b9;
+  --hotspot-bg: #ffeaa7;
+  --hotspot-border: #fdcb6e;
+  --shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+* { box-sizing: border-box; }
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background-color: var(--bg);
+  margin: 0;
+  padding: 24px;
+  color: var(--text);
+}
+
+/* Header */
+.header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.title h1 { margin: 0; font-weight: 600; }
+.title p { margin: 4px 0 0; color: #566573; }
+
+/* Banner */
+.banner {
+  background: var(--hotspot-bg);
+  border-left: 6px solid var(--hotspot-border);
+  padding: 16px 20px;
+  margin: 16px 0 20px;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+.banner h2 { margin: 0 0 8px; }
+
+/* Summary cards */
+.summary {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-bottom: 20px;
+}
+.card {
+  background: var(--card);
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+.card h3 { margin: 0 0 8px; font-weight: 600; }
+.metric { font-size: 28px; font-weight: 600; }
+
+/* Filters */
+.filters {
+  display: flex;
+  gap: 16px;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+.filter-group label { display: block; margin-bottom: 6px; }
+select {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccd1d1;
+  background: #fff;
+  min-width: 240px;
+}
+
+/* Charts */
+.charts {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+.chart {
+  background: var(--card);
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+.chart h2 { margin: 0 0 12px; }
+iframe {
+  width: 100%;
+  height: 520px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+/* Downloads */
+.downloads {
+  margin-top: 24px;
+  background: var(--card);
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+.button {
+  display: inline-block;
+  padding: 10px 14px;
+  margin: 6px 8px 0 0;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+.button:hover { background: var(--accent-dark); }
+.button.secondary { background: #7f8c8d; }
+.button.secondary:hover { background: #707b7c; }
+
+/* Footer */
+.footer {
+  margin-top: 24px;
+  color: #707b7c;
+  text-align: center;
+}
