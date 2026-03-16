@@ -1,15 +1,17 @@
 <div align="center">
   
-# 🆔 UIDAI Hackathon 2025
+# 📊 AadhaarInsights
 
-### Aadhaar-Powered Digital Identity Solution
+### Unlocking Societal Trends in Aadhaar Enrolment and Updates
 
-[![UIDAI](https://img.shields.io/badge/UIDAI-Aadhaar-orange.svg)](https://uidai.gov.in/)
+[![UIDAI Hackathon](https://img.shields.io/badge/UIDAI-Hackathon%202025-orange.svg)](https://uidai.gov.in/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Secure, Privacy-First Digital Identity Verification System**
+**AI-Powered Analytics Platform for Identifying Patterns, Trends & Anomalies in Aadhaar Data**
+
 
 </div>
 
@@ -21,7 +23,20 @@
 |--------|-------------|
 | **Event** | UIDAI Hackathon 2025 |
 | **Organizer** | Unique Identification Authority of India |
-| **Theme** | Digital Identity Innovation |
-| **Team Name** | Shivaay_Developers |
-| **Team Members** | Rahul Chelani, Aryan Pandey, Sneha Patel, Srishti Gupta |
+| **Problem Statement** | Unlocking Societal Trends in Aadhaar Enrolment and Updates |
+| **Team Name** | Tech_Developers|
 | **Institution** | Shri Ram Institute of Technology, Jabalpur |
+
+---
+
+## 🎯 Problem Statement
+
+<div align="center">
+
+### "Unlocking Societal Trends in Aadhaar Enrolment and Updates"
+
+</div>
+
+> **Challenge:** Identify meaningful patterns, trends, anomalies, or predictive indicators and translate them into clear insights or solution frameworks that can support informed decision-making and system improvements.
+
+### The Challenge We Address
