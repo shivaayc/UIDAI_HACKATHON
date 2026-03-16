@@ -24,22 +24,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Problem Statement](#-problem-statement)
-- [Our Solution](#-our-solution)
-- [Key Features](#-key-features)
-- [System Architecture](#-system-architecture)
-- [Technical Implementation](#-technical-implementation)
-- [Installation](#-installation)
-- [Usage Guide](#-usage-guide)
-- [Sample Output](#-sample-output)
-- [Performance Metrics](#-performance-metrics)
-- [Deployment](#-deployment)
-- [Team](#-team-tech_developers)
-- [License](#-license)
-
----
 
 ## 🚨 Problem Statement
 
