@@ -11,8 +11,6 @@
 
 **Secure, Privacy-First Digital Identity Verification System**
 
-[Problem Statement](#-problem-statement) • [Solution](#-solution) • [Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation) • [Demo](#-demo)
-
 </div>
 
 ---
