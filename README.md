@@ -24,6 +24,6 @@
 | **Event** | UIDAI Hackathon 2025 |
 | **Organizer** | Unique Identification Authority of India |
 | **Theme** | Digital Identity Innovation |
-| **Team Name** | [Your Team Name] |
-| **Team Members** | Rahul Chelani, Sneha Patel, Srishti Gupta |
+| **Team Name** | Shivaay_Developers |
+| **Team Members** | Rahul Chelani, Aryan Pandey, Sneha Patel, Srishti Gupta |
 | **Institution** | Shri Ram Institute of Technology, Jabalpur |
