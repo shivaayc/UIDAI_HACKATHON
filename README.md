@@ -1,42 +1,42 @@
 <div align="center">
   
-# 📊 AadhaarInsights
+# 🎯 Anomaly Radar Dashboard
 
-### Unlocking Societal Trends in Aadhaar Enrolment and Updates
+### Automated Anomaly Detection System for Aadhaar Enrolment Data
 
-[![UIDAI Hackathon](https://img.shields.io/badge/UIDAI-Hackathon%202025-orange.svg)](https://uidai.gov.in/)
+[![UIDAI Hackathon](https://img.shields.io/badge/UIDAI-Data%20Hackathon%202026-orange.svg)](https://uidai.gov.in/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)](https://streamlit.io/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-Data%20Engine-yellow.svg)](https://duckdb.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green.svg)](https://scikit-learn.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple.svg)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**AI-Powered Analytics Platform for Identifying Patterns, Trends & Anomalies in Aadhaar Data**
+**Transform millions of Aadhaar enrolment records into actionable fraud detection insights**
 
+[Problem](#-problem) • [Solution](#-solution) • [How It Works](#-how-it-works) • [Features](#-features) • [Installation](#-installation) • [Outputs](#-outputs)
+
+---
+
+### 🏆 Team: tech_Developer
+
+**UIDAI Data Hackathon 2026**
 
 </div>
 
 ---
 
-## 🏆 Hackathon Details
+## 📋 Table of Contents
 
-| Detail | Information |
-|--------|-------------|
-| **Event** | UIDAI Hackathon 2025 |
-| **Organizer** | Unique Identification Authority of India |
-| **Problem Statement** | Unlocking Societal Trends in Aadhaar Enrolment and Updates |
-| **Team Name** | Tech_Developers|
-| **Institution** | Shri Ram Institute of Technology, Jabalpur |
+- [Problem](#-problem)
+- [Solution Overview](#-solution-overview)
+- [How It Works](#-how-it-works)
+- [Technical Approach](#-technical-approach)
+- [System Architecture](#-system-architecture)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Outputs](#-outputs)
+- [Why This Works](#-why-this-works)
+- [Key Design Choices](#-key-design-choices)
 
 ---
-
-## 🎯 Problem Statement
-
-<div align="center">
-
-### "Unlocking Societal Trends in Aadhaar Enrolment and Updates"
-
-</div>
-
-> **Challenge:** Identify meaningful patterns, trends, anomalies, or predictive indicators and translate them into clear insights or solution frameworks that can support informed decision-making and system improvements.
-
-### The Challenge We Address
